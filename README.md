@@ -1,2 +1,2 @@
 # smaple
-github 연결
+github 연결 hello world
